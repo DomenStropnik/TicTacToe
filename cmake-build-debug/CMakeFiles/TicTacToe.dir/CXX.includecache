@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/TicTacToe/src/GameBoard.cpp
+GameBoard.h
+D:/CLionProjects/TicTacToe/src/GameBoard.h
+Player.h
+D:/CLionProjects/TicTacToe/src/Player.h
+iostream
+-
+
+D:/CLionProjects/TicTacToe/src/GameBoard.h
+
+D:/CLionProjects/TicTacToe/src/Player.cpp
+Player.h
+D:/CLionProjects/TicTacToe/src/Player.h
+GameBoard.h
+D:/CLionProjects/TicTacToe/src/GameBoard.h
+iostream
+-
+
+D:/CLionProjects/TicTacToe/src/Player.h
+GameBoard.h
+D:/CLionProjects/TicTacToe/src/GameBoard.h
+
+D:/CLionProjects/TicTacToe/src/main.cpp
+Player.h
+D:/CLionProjects/TicTacToe/src/Player.h
+GameBoard.h
+D:/CLionProjects/TicTacToe/src/GameBoard.h
+iostream
+-
+
